@@ -2,7 +2,7 @@
 
 Projeto acadêmico do **SENAI CIMATEC – Ford Enter Inteligência Artificial**: um fluxo completo de ciência de dados que vai da configuração do ambiente em nuvem até a implantação de um serviço de inferência com monitoramento e governança.
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/notebooks/wine_quality_colab.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GideaoBitencourt/Wine-Quality/blob/main/wine_quality_colab.ipynb)
 
 > **Autor:** Gideão Victor Bitencourt Silva
 
