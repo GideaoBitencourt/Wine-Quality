@@ -16,7 +16,7 @@ Projeto acadêmico do **SENAI CIMATEC – Ford Enter Inteligência Artificial**:
 
 1. [Sobre o projeto](#sobre-o-projeto)
 2. [Base de dados](#base-de-dados)
-3. [Arquitetura](#arquitetura)
+3. [Arquitetura](#arquitetura-da-solução)
 4. [Estrutura do repositório](#estrutura-do-repositório)
 5. [Como executar](#como-executar)
 6. [Etapas do notebook](#etapas-do-notebook)
@@ -26,8 +26,6 @@ Projeto acadêmico do **SENAI CIMATEC – Ford Enter Inteligência Artificial**:
 10. [Governança e reprodutibilidade](#governança-e-reprodutibilidade)
 11. [Limitações](#limitações)
 12. [Melhorias futuras](#melhorias-futuras)
-13. [Referências](#referências)
-
 ---
 
 ## Sobre o projeto
